@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Rai, @Mayankrai449
 - 👀 I’m interested in computer science and software development 
-- 🌱 I’m currently learning computer basics and programming 
+- 🌱 I’m currently learner .
 - 💞️
 - 📫 How to reach me , email - mayankraivns@gmail.com
 
