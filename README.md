@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayank Rai, @Mayankrai449
-- 👀 I’m pursuing computer science and software development 
-- 🌱 I’m currently learner .
+- 👀 I’m pursuing Computer Science and Software Development 
+- 🌱 I’m currently a FullStack Developer.
 - Interested in Open source contributions.
 - 📫 How to reach me , email - mayankraivns@gmail.com
 
